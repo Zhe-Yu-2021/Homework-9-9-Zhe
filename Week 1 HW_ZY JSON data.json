@@ -1,0 +1,28 @@
+{
+	"genes": [{
+		"name": "Human angiotensin II type 2 receptor",
+		"length in bp": 5293,
+		"accession number": "U20860",
+		"gene type": "DNA"
+	}, {
+		"name": "Human angiotensin II type I receptor",
+		"length in bp": 2720,
+		"accession number": "U07144",
+		"gene type": "DNA"
+	}, {
+		"name": "Homo sapiens angiotensinogen(AGT)",
+		"length in bp": 3932,
+		"accession number": "AH002594",
+		"gene type": "DNA"
+	}, {
+		"name": "Human angiotensin I - converting enzyme",
+		"length in bp": 4020,
+		"accession number": "J04144",
+		"gene type": "mRNA"
+	}, {
+		"name": "Homo sapiens ace2",
+		"length in bp": 2599,
+		"accession number": "AB046569",
+		"gene type": "mRNA"
+	}]
+}
